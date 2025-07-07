@@ -9,10 +9,10 @@ function Home() {
         learning. 
       </p>
       <div className="mt-6 space-x-4">
-        <a href="/projects" className="bg-sky text-white px-4 py-2 rounded-xl shadow hover:bg-mint transition">
+        <a href="https://e-portfolio-one-gold.vercel.app/projects" className="bg-sky text-white px-4 py-2 rounded-xl shadow hover:bg-mint transition">
           View Projects
         </a>
-        <a href="/contact" className="text-mint underline hover:text-sky">
+        <a href="https://e-portfolio-one-gold.vercel.app/contact" className="text-mint underline hover:text-sky">
           Contact Me
         </a>
       </div>
