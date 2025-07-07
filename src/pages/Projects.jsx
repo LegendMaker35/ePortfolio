@@ -25,7 +25,7 @@ function Projects() {
         frontend: "https://github.com/LegendMaker35/eportfolio",
         backend: "https://github.com/LegendMaker35/eportfolio-api",
       },
-      demo: "https://eportfolio-site.vercel.app",
+      demo: "https://e-portfolio-one-gold.vercel.app/",
     },
   ];
 

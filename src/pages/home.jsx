@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 function Home() {
   return (
     <section className="p-8 flex flex-col items-center text-center">
@@ -9,15 +11,15 @@ function Home() {
         learning. 
       </p>
       <div className="mt-6 space-x-4">
-        <a href="https://e-portfolio-one-gold.vercel.app/projects" className="bg-sky text-white px-4 py-2 rounded-xl shadow hover:bg-mint transition">
+        <Link to="/projects" className="bg-sky text-white px-4 py-2 rounded-xl shadow hover:bg-mint transition">
           View Projects
-        </a>
-        <a href="https://e-portfolio-one-gold.vercel.app/contact" className="text-mint underline hover:text-sky">
+        </Link>
+        <Link to="/contact" className="text-mint underline hover:text-sky">
           Contact Me
-        </a>
+        </Link>
       </div>
     </section>
   )
 }
 
-export default Home
+export default Home;
