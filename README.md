@@ -1,36 +1,48 @@
-# Joshua Peters – Developer Portfolio
+# Joshua Peters – Data Analyst Portfolio
 
-Welcome to my personal developer portfolio, well atleast the git for the site! This site showcases my work, skills, and background as a Data Analyst, full-stack web developer and Software Engineer, and this git tells you alittle bit about the technical details.
+Welcome to the GitHub repo for my personal portfolio site!  
+This site introduces who I am as a **data analyst** and highlights my experience, skills, and professional background. While my focus is on analytics and business insight, this site also reflects my technical foundation in full stack development.
 
-This site is fully custom-built using HTML, CSS, and JS.
+The portfolio is fully custom-built using modern web technologies and serves as a central hub for my resume, experience, and contact information.
 
-**Live Site:** [https://e-portfolio-one-gold.vercel.app](https://e-portfolio-one-gold.vercel.app)
-
----
-
-## Features
-
-- ✅ Fully responsive layout built with **React** and **Tailwind CSS**
-- ✅ Smooth multi-page navigation using **React Router**
-- ✅ A live **contact form** that sends messages directly to my email via a connected **Node.js + Express API**
-- ✅ Deployment on **Vercel (frontend)** and **Render (backend)**
-- ✅ Clean and minimalist UI with custom color palette
+** Live Site:** [https://e-portfolio-one-gold.vercel.app](https://e-portfolio-one-gold.vercel.app)
 
 ---
 
-## Technologies Used
+##  Features
 
-### Frontend:
+- Responsive, multi-page site built with **React** and **Tailwind CSS**
+- Smooth client-side routing via **React Router**
+- Functional **contact form** powered by **Node.js + Express**
+- Deployed on **Vercel (frontend)** and **Render (backend)**
+- Clean, minimalist UI design reflecting a data-focused professional identity
+
+---
+
+##  Technologies Used
+
+### Frontend
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [React Router](https://reactrouter.com/)
 - [Vite](https://vitejs.dev/)
 - [Vercel](https://vercel.com/)
 
-### Backend (contact form API):
+### Backend (Contact API)
 - [Node.js](https://nodejs.org/)
 - [Express](https://expressjs.com/)
 - [Nodemailer](https://nodemailer.com/about/)
 - [Render](https://render.com/)
 
 ---
+
+##  Contact
+
+You can connect with me through the contact form on the site, or explore more about my work through:
+
+- Portfolio: [e-portfolio-one-gold.vercel.app](https://e-portfolio-one-gold.vercel.app)
+- GitHub: [github.com/LegendMaker35](https://github.com/LegendMaker35)
+
+---
+
+Thanks for visiting!

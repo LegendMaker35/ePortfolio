@@ -1,17 +1,17 @@
 function Projects() {
   const projects = [
     {
-      title: "Speed Typing Web App",
+      title: "Speed Typing Performance Tracker",
       description:
-        "A responsive speed typing game built in JavaScript with real-time feedback, performance tracking, and Google Sign-In authentication.",
+        "A web app that tracks and displays real-time performance metrics (WPM, accuracy) using session data. Integrated Google authentication for personalized progress tracking.",
       tech: ["JavaScript", "HTML", "CSS", "Google Identity"],
       github: "https://github.com/LegendMaker35/speed-typing-game",
       demo: "https://speed-typing-game-fhra.onrender.com",
     },
     {
-      title: "Java GUI + MySQL Client",
+      title: "Multi-Client SQL Role System",
       description:
-        "Multi-client GUI app using Java and JDBC, with role-based user auth, SQL execution, and detailed error handling.",
+        "Built a multi-client Java GUI for role-based SQL access. Supported secure login, query execution, error handling, and business rule enforcement in MySQL.",
       tech: ["Java", "JDBC", "MySQL"],
       github: null,
       demo: null,
@@ -19,7 +19,7 @@ function Projects() {
     {
       title: "Personal Portfolio Website",
       description:
-        "This very website! Built with React and Tailwind CSS, featuring routing, a live contact form connected to a Node.js + Express backend, and deployed using Vercel and Render.",
+        "This site. Custom-built with React and Tailwind CSS to present my resume, data background, and contact info. Includes a working contact form with backend email routing.",
       tech: ["React", "Tailwind CSS", "Express", "Render", "Vercel"],
       github: {
         frontend: "https://github.com/LegendMaker35/eportfolio",
@@ -31,7 +31,7 @@ function Projects() {
 
   return (
     <section className="p-8 max-w-5xl mx-auto">
-      <h2 className="text-3xl font-bold text-mint mb-6 text-center">Projects</h2>
+      <h2 className="text-3xl font-bold text-mint mb-6 text-center">Portfolio</h2>
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
         {projects.map((project, index) => (
           <div
