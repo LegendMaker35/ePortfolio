@@ -1,6 +1,8 @@
 # Joshua Peters – Developer Portfolio
 
-Welcome to my personal developer portfolio, well atleast the git for the site! This site showcases my work, skills, and background as a full-stack web developer and system administrator, and this git tells you alittle bit about the technical details.
+Welcome to my personal developer portfolio, well atleast the git for the site! This site showcases my work, skills, and background as a Data Analyst, full-stack web developer and Software Engineer, and this git tells you alittle bit about the technical details.
+
+This site is fully custom-built using HTML, CSS, and JS.
 
 **Live Site:** [https://e-portfolio-one-gold.vercel.app](https://e-portfolio-one-gold.vercel.app)
 
